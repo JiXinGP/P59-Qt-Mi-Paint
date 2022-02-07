@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/paint.png</file>
+        <file>Recursos/anchura.png</file>
+        <file>Recursos/circulo-de-color.png</file>
+        <file>Recursos/contorno-de-forma-geometrica-rectangular.png</file>
+        <file>Recursos/grafico-de-lineas.png</file>
+        <file>Recursos/lavado-en-seco.png</file>
+        <file>Recursos/nodos.png</file>
+    </qresource>
+</RCC>
